@@ -19,7 +19,7 @@ _This is a HTML website with brief introduction of my dog Maru. It includes stoc
 
 ## Known Bugs
 
-* _TBA_
+* _TBD_
 
 ## License
 
